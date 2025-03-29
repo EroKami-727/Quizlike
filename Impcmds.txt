@@ -1,0 +1,18 @@
+npm run dev (to run the server on local host)
+
+
+
+git commit -m "Update project files" (to start a commit followed by)
+
+git push orgin main (to push the projet for real)
+
+
+cd Quizlike   (if you were inna diff directory for terminal)
+
+
+dir (to check present directory)
+
+
+vercel (to link to a project in vercel)
+
+vercel --prod (to push my shit to production is vercel isn't automatically updating)
