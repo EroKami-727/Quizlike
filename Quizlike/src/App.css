@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f5f7fa;
+  background-color: linear-gradient(to bottom right, #05192e, #2d4356) ;
 }
 
 button {
@@ -200,7 +200,7 @@ button {
 
 .course-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 15px 30px rgba(227, 5, 239, 0.1);
 }
 
 .course-image {
