@@ -1,0 +1,8 @@
+VS Code
+
+Node JS
+
+Git bash
+
+vercel--> vite+react-->javascript without AWS
+

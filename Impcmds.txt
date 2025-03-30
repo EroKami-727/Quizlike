@@ -1,13 +1,13 @@
 npm run dev (to run the server on local host)
 
 
-
+git add .
 git commit -m "Update project files" (to start a commit followed by)
 
-git push orgin main (to push the projet for real)
+git push orgin main (to push the project for real)
 
 
-cd Quizlike   (if you were inna diff directory for terminal)
+cd Quizlike   (if you were in a diff directory for terminal)
 
 
 dir (to check present directory)
